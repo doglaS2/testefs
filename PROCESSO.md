@@ -45,8 +45,12 @@ src/
 │   ├── api/
 │   │   ├── chat/
 │   │   │   └── route.ts       # Endpoint de chat com RAG
-│   │   └── seed/
-│   │       └── route.ts       # Endpoint para popular banco
+│   │   ├── upload/
+│   │   │   └── route.ts       # Upload de PDF/TXT
+│   │   └── documents/
+│   │       └── route.ts       # Listar e deletar documentos
+│   ├── settings/
+│   │   └── page.tsx           # Página de configurações
 │   ├── globals.css            # Estilos globais
 │   ├── layout.tsx             # Layout raiz
 │   └── page.tsx               # UI de chat

@@ -9,18 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/google": "^3.0.6",
     "@ai-sdk/openai": "^3.0.7",
+    "@ai-sdk/react": "^3.0.23",
     "@supabase/supabase-js": "^2.38.0",
     "ai": "^6.0.23",
     "clsx": "^2.0.0",
+    "lucide-react": "^0.562.0",
     "next": "^14.0.0",
-    "pdf-parse": "^2.4.5",
+    "openai": "^4.67.0",
+    "pdf2json": "^4.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "tailwind-merge": "^2.2.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
+    "@types/pdf-parse": "^1.1.5",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.0",
     "autoprefixer": "^10.4.16",
