@@ -1,2 +1,0 @@
-# testefs
-Teste Técnico Cronometrado
