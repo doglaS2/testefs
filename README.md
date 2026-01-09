@@ -1,3 +1,6 @@
+https://testefs.vercel.app
+
+
 ## 🔑 Credenciais do Banco (Acesso para Avaliador)
 Para validar o sistema RAG e a persistência de documentos, utilize estas credenciais:
 
